@@ -159,8 +159,8 @@ class acf_revisions
 				{
 					global $left_revision, $right_revision;
 					
-					$left_revision->$field['name'] = 'revision_id=' . $_GET['left'];
-					$right_revision->$field['name'] = 'revision_id=' . $_GET['right'];
+					$left_revision->{$field['name']} = 'revision_id=' . $_GET['left'];
+					$right_revision->{$field['name']} = 'revision_id=' . $_GET['right'];
 				}
 								
 			}
