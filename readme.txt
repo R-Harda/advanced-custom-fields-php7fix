@@ -1,5 +1,5 @@
-=== Advanced Custom Fields ===
-Contributors: elliotcondon
+=== Advanced Custom Fields PHP7-Fix ===
+Contributors: elliotcondon, R-Harada(PHP7-Fix)
 Tags: custom, field, custom field, advanced, simple fields, magic fields, more fields, repeater, matrix, post, type, text, textarea, file, image, edit, admin
 Requires at least: 3.5.0
 Tested up to: 4.5.0

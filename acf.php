@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Advanced Custom Fields
-Plugin URI: http://www.advancedcustomfields.com/
+Plugin Name: Advanced Custom Fields PHP7 Fix
+Plugin URI: https://github.com/R-Harda/advanced-custom-fields-php7fix
 Description: Customise WordPress with powerful, professional and intuitive fields
 Version: 4.4.7
-Author: Elliot Condon
+Author: Elliot Condon, R-Harada(PHP7-Fix)
 Author URI: http://www.elliotcondon.com/
 License: GPL
 Copyright: Elliot Condon
